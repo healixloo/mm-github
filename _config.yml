@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Healix Loo"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "Cogito, ergo sum."
   links:
     - label: "Website"
