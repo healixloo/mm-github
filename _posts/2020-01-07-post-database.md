@@ -18,4 +18,4 @@ tags:
 ---
 
 ![](/assets/database/png-db.png)
-<img src="/assets/database/png-db.png">
+<img src="https://healixloo.github.io/mm-github/assets/database/png-db.png">
