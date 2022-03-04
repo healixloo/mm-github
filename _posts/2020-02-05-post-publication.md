@@ -12,6 +12,7 @@ tags:
 ---
   
 > <cite><a href="https://www.nature.com/articles/s41598-021-96321-8">Characterization of an in vitro 3D intestinal organoid model by using massive RNAseq-based transcriptome profiling</a></cite>
+
 > Model
 ![](/assets/png-paper.png/schematic.png)
 
