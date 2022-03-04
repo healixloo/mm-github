@@ -12,13 +12,14 @@ tags:
 ---
   
 > <cite><a href="https://www.nature.com/articles/s41598-021-96321-8">Characterization of an in vitro 3D intestinal organoid model by using massive RNAseq-based transcriptome profiling</a></cite>
-![](/images/png-paper.png/schematic.pdf)
+> Model
+![](/assets/png-paper.png/schematic.pdf)
 
 > Interaction
-![](/images/png-paper.png/Cecum_Young_circos-table-uciedhs-large.svg)
+![](/assets/png-paper.png/Cecum_Young_circos-table-uciedhs-large.svg)
 
 > Ifng
-![](/images/png-paper.png/Ifng.png)
+![](/assets/png-paper.png/Ifng.png)
 
 > TCGA
-![](/images/png-paper.png/Graphical_abstract.001.tiff)
+![](/assets/png-paper.png/Graphical_abstract.001.tiff)
