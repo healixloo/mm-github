@@ -16,5 +16,5 @@ tags:
   - Stem cell
   - Embryo Development
 ---
-![DB](/assets/png-db.png/png-db.png.001.png)
-<img src="/assets/png-db.png/png-db.png.001.png">
+![DB](/images/png-db.png/png-db.png.001.png)
+<img src="/images/png-db.png/png-db.png.001.png">
