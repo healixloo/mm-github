@@ -17,5 +17,5 @@ tags:
   - Embryo Development
 ---
 
-![](/assets/database/png-db.png)
-<img src="https://healixloo.github.io/mm-github/assets/database/png-db.png">
+![](https://healixloo.github.io/mm-github/assets/database/png-db.png)
+#<img src="https://healixloo.github.io/mm-github/assets/database/png-db.png">
