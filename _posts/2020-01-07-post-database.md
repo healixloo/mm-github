@@ -17,5 +17,5 @@ tags:
   - Embryo Development
 ---
 
-![](/assets/png-db.png/png-db.png.001.png)
-<img src="/assets/png-db.png/png-db.png.001.png">
+![](/assets/database/png-db.png)
+<img src="/assets/database/png-db.png">
