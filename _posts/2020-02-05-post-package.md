@@ -1,7 +1,7 @@
 ---
-title: "Package"
+title: "Packages"
 categories:
-  - Algorithm
+  - Packages
 tags:
   - Development
   - scRNAseq
