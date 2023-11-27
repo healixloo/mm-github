@@ -1,8 +1,8 @@
 ---
-title: "Database"
+title: "Databases"
 excerpt_separator: "<!--more-->"
 categories:
-  - Database
+  - Databases
 tags:
   - RNAseq
   - scRNAseq
