@@ -27,6 +27,7 @@ tags:
 
 
 * [Profile](https://scholar.google.com/citations?user={{ site.data.scholar.id }})
+* Publications: {{ site.data.scholar }}
 * Citations: {{ site.data.scholar.citations }}
 * h-index: {{ site.data.scholar.h_index }}
 * i10-index: {{ site.data.scholar.i10_index }}
