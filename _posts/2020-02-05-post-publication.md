@@ -25,10 +25,3 @@ tags:
 > TCGA
 ![](https://healixloo.github.io/mm-github/assets/paper/Graphical_abstract.001.tiff)
 
-
-* [Profile](https://scholar.google.com/citations?user={{ site.data.scholar.id }})
-* {{ site.data.scholar.id }}
-* Publications: {{ site.data.scholar }}
-* Citations: {{ site.data.scholar.citations }}
-* h-index: {{ site.data.scholar.h_index }}
-* i10-index: {{ site.data.scholar.i10_index }}
